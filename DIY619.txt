@@ -67,26 +67,9 @@
 {"key":"csp_biubiu_维奇动漫","name":"维奇动漫(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/breadmyth/bread/master/MeowXB/维奇动漫.json"},
 
 {"key":"🔞丝袜资源(官采)","name":"🔞丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"🔞ThePorn(官采)","name":"🔞ThePorn","type":1,"api":"https://api.theporn.xyz/ 
-      “playUrl”：“ ”，
-      “类别”：[
-                《三级片》，
-                “巨乳”，
-                “熟女”，
-                “女教师”，
-                “角色扮演”，
-                "口交" ,
-                《颜射》，
-                “强奸”，
-                “按摩”，
-                “办公室”，
-                “潮吹”，
-                《自拍》，
-                “偷拍”，
-                “女同”，
-                “制服”，
-                《人妻》，
-                《护士》 ]},
+{"key":"ThePorn(官采)","name":"🔞ThePorn","type":1,"api":"https://api.theporn.xyz/ ","searchable":1,"quickSearch":1,"filterable":0},
+  
+          
 {"key":"🔞523 资源(官采)","name":"🔞523 资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"🔞芒果资源(官采)","name":"🔞芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"共青春(官采)","name":"共青春","type":1,"api":"https://gqcyy.com/api.php/provide/vod/" ,"playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
